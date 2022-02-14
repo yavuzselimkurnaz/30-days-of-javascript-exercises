@@ -1,0 +1,23 @@
+/* Style for demo */
+html,
+body {
+  font-family: sans-serif;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer {
+  margin-top: auto;
+  margin-bottom: 16px;
+}
