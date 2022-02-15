@@ -4,8 +4,8 @@ This repository contains the exercise results from <a target="__blank" href="htt
 
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Introduction](./readMe.md)✅                                                            |
-| 02    |                                               [Data Types](./02_Day_Data_types/02_day_data_types.md)                                                |
+| 01    |                             [Introduction](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md#-day-1-exercises)✅               |
+| 02    |                                               [Data Types](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md#-day-2-exercises)                                                |
 | 03    |                             [Booleans, Operators, Date](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
 | 04    |                                            [Conditionals](./04_Day_Conditionals/04_day_conditionals.md)                                             |
 | 05    |                                                     [Arrays](./05_Day_Arrays/05_day_arrays.md)                                                      |
